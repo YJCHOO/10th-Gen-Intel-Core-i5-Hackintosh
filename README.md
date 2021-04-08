@@ -5,10 +5,10 @@ The objective is to build a video editing and coding Hackintosh. Build must be a
 Part | Model
 -----|------
 CPU  | Intel Core I5 10500ES
-CPU Fan | Cooler Master Hyper 212 LED Turbo
+CPU Fan | Cooler Master i30
 GPU | Intel UHD 630
 Motherboard | Asrock B460M Pro4
 Memory | ADATA 4GB DDR4 2666mhz x2
-Storage | Western Digital SN550 500GB
+Storage | Sandisk 3D Utra 250GB
 Network | Fenvi FV-T919
 Casing | Tecware Nexus Air M2
