@@ -15,7 +15,7 @@ Casing | Tecware Nexus Air M2
 
 # Not Working
 - HDMI Audio Output.
-- App Store will cause randomly log out system.
+- App Store cause randomly log out system.
 - Sleep sometime will not able to wake.
 
 # Opencore 0.6.8 + macOS Catalina Version 10.15.7
