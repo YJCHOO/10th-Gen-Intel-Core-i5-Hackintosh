@@ -12,3 +12,8 @@ Memory | ADATA 4GB DDR4 2666mhz x2
 Storage | Sandisk 3D Utra 250GB
 Network | Fenvi FV-T919
 Casing | Tecware Nexus Air M2
+
+# Not Working
+- HDMI Audio Output.
+- App Store will cause randomly log out system.
+- Sleep sometime will not able to wake.
