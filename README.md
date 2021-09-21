@@ -15,8 +15,10 @@ Network | Fenvi FV-T919
 Casing | Tecware Nexus Air M2
 
 # Not Working
-- Apple Music Dolby Atmos and loseless not working.(Need SMBIOS iMac Pro 1,1, but it will disable IGPU hardware acceleration)
+- Apple Music Dolby Atmos, loseless and live radio not working.(Need SMBIOS iMac Pro 1,1, but it will disable IGPU hardware acceleration)
 - Ps/2 port not working
+- Apple TV not working (due to the DRM issue, can fix by adding a graphic card).
+
 
 # Fixed
 - ~~HDMI Audio Output.~~ (fixed by patching the BusID)
